@@ -28,3 +28,7 @@ HEADERS  += mainwindow.h \
 FORMS    += mainwindow.ui \
     biddingboxwindow.ui \
     handconstructordialog.ui
+
+CONFIG += mobility
+MOBILITY = 
+
